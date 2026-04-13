@@ -1,7 +1,4 @@
-# Name: Your Name
-# Project Title: Business Data Analysis using OLAP and Apache Superset
-# Description: This project demonstrates basic data analysis concepts
-# using OLAP operations and visualization preparation.
+
 
 import pandas as pd
 
